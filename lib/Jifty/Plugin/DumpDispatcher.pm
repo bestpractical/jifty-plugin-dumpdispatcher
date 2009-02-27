@@ -4,6 +4,8 @@ use warnings;
 package Jifty::Plugin::DumpDispatcher;
 use base qw/Jifty::Plugin/;
 
+our $VERSION = '0.01';
+
 =head1 NAME
 
 Jifty::Plugin::DumpDispatcher
